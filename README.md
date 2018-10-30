@@ -10,5 +10,5 @@ Debe crear un clon del proyecto atraves de del backup en el repositorio.
 
 
 
-##Restaurar el Backup en la base de datos
+## Restaurar el Backup en la base de datos
 La base de datos se creo en sql Server. Puede encontrar como restaurar en [Restaurar backups en SQL Server](http://help.bizagi.com/bpm-suite/es/index.html?studio_backup.htm).
