@@ -12,7 +12,7 @@ Debe crear un clon del proyecto atraves de del backup en el repositorio.
   Antes de Restaurar el backup en la base de datos del nuevo proyecto. Detenga el servicio local de ese proyecto en servicios locales de windows.
 
 ## Restaurar el Backup en la base de datos
-La base de datos se creo en sql Server. Puede encontrar como restaurar en [Restaurar backups en SQL Server](http://help.bizagi.com/bpm-suite/es/index.html?studio_backup.htm).
+La base de datos se creo en sql Server. Puede encontrar como restaurar en [Restaurar backups en SQL Server](http://help.bizagi.com/bpm-suite/es/index.html?studio_restoresql.htm).
 
 
 
